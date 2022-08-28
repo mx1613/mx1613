@@ -7,7 +7,7 @@ Roboticists by training, passionate developer and sports lover.
 - 👨‍💼 on [LinkedIn](https://www.linkedin.com/in/michelexiloyannis/)
 - 🤖 on my personal [website](https://xmichele.info/)
 - 🤠 on [Scholar](https://scholar.google.com/citations?user=e8gAwugAAAAJ&hl=en)
-- 📖 on [Medium]{https://medium.com/@m.xiloyannis}
+- 📖 on [Medium](https://medium.com/@m.xiloyannis)
 
 ### Stats, Technologies & Tools
 
