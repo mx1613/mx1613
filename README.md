@@ -1,6 +1,6 @@
 ### Hello, this is Michele! 👋
 
-Roboticists by training, passionate developer and sports lover.
+Roboticists by training, passionate about sports, software development, machine🤖 and human🧠 learning.
 
 ### Where to find me
 
